@@ -45,7 +45,7 @@ public class MovingObjectPosition {
         let objectPosition: MovingObjectPosition = MovingObjectPosition();
         objectPosition.typeOfHit = 1;
         objectPosition.entityHit = entity;
-        objectPosition.hitVector = Vector3(x: entity.x, y: entity.y, z: entity.z);
+        objectPosition.hitVector = Vector3(x: entity.position.x, y: entity.position.y, z: entity.position.z);
         return objectPosition
     }
 }
