@@ -10,6 +10,10 @@ SouceBlock is built with Swift for a low barrier of entry to new programmers, an
 
 If you've got experience building game servers, your help could be very valuable right now! This project hasn't yet reached a point where it can respond to Minecraft Bedrock clients. That's because no one knowledgable on game servers has laid hands on this project yet, and it's unclear how best to do that. The current plan is reverse engineering functionality by listening to what connections are coming in, and responding to those, as well as looking at requests from clients through [Charles](https://www.charlesproxy.com). This route could take lots of unnecessary time and pain... so it'd be nice to avoid it if possible! If you've built game servers before, your help would be greatly appreciated! Especially if you have experience building Minecraft servers. No Swift knowledge is necessary. You don't even have to write code (though you're very welcome to). Just reach out and we'll figure things out.
 
+## Other simple ways to help
+
+A lot of models haven't yet been fleshed out. Compare this project to other open source solutions, like [PocketMine-MP](https://github.com/pmmp/PocketMine-MP), and port missing items. There's a very long list of models that haven't yet been implemented here. You can add more models or add to existing models without even running this project. Also feel free to comment and review code. All help is welcome.
+
 ## Goals
 
 ### Current
