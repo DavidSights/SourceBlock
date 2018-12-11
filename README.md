@@ -42,3 +42,5 @@ For instructions on how to install Swift on Linux, [click here](https://www.digi
 
 For instructions on how to install Vapor, click [here for macOS](https://docs.vapor.codes/3.0/install/macos/), or [here for Linux Ubuntu](https://docs.vapor.codes/3.0/install/ubuntu/).
 
+Need help getting started? Reach out: davidsights@me.com
+
