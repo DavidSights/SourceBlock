@@ -34,7 +34,7 @@ A lot of models haven't yet been fleshed out. Compare this project to other open
 
 - [ ] Basic compatibility for Minecraft Java Edition
 
-### Tehcnical
+### Tehcnical Maintenance Goals
 
 - Easy — Make developing and using this server as easy as possible
 - Flexible — Avoid relying too heavily on specific tools, so we're always able to switch to better tools when necessary
